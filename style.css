@@ -1,0 +1,26 @@
+/* QR Code Challenge*/
+body {
+  background-color: #d6e2f0;
+}
+
+.card {
+  background-color: #ffffff;
+  margin: 10rem auto;
+  width: 23.4375rem;
+  padding: 20px 20px 50px;
+  border-radius: 15px;
+  text-align: center;
+  font-size:15px;
+  font-family: 'Outfit', sans-serif;
+}
+
+.Qr-Code {
+    border-radius: 15px;
+    width: 100%;
+}
+
+.description {
+  width: 236px;
+  margin: 0 auto;
+  color: 	#7b879d
+}
